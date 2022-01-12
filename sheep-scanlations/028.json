@@ -1,0 +1,31 @@
+[
+    {
+        "id": "/ch001",
+        "title": "Chapter 1 - Beginning",
+        "pages": [
+            "./assets/ch001/Page01.png",
+            "./assets/ch001/Page02.png",
+            "./assets/ch001/Page03.png",
+            "./assets/ch001/Page04.png",
+            "./assets/ch001/Page05.png"
+        ]
+    },
+    {
+        "id": "/ch999",
+        "title": "Ch. 999 - The End",
+        "pages": [
+            "./assets/ch999/Page01.png",
+            "./assets/ch999/Page02.png",
+            "./assets/ch999/Page03.png"
+        ]
+    },
+    {
+        "id": "/meh",
+        "title": "The lost chapter",
+        "pages": [
+            "./assets/404",
+            "./assets/404",
+            "./assets/404"
+        ]
+    }
+]
