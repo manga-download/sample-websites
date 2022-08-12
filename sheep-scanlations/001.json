@@ -11,6 +11,22 @@
         ]
     },
     {
+        "id": "/ch002",
+        "title": "Chapter 2 - Feeling Empty",
+        "pages": []
+    },
+    {
+        "id": "/ch003",
+        "title": "Chapter 3 - The Long Name and it's so boring that we hope that nobody will ever take the time to read this because it's quite useless but nonetheless thank you for your time",
+        "pages": [
+            "./assets/ch001/Page01.png",
+            "./assets/ch001/Page02.png",
+            "./assets/ch001/Page03.png",
+            "./assets/ch001/Page04.png",
+            "./assets/ch001/Page05.png"
+        ]
+    },
+    {
         "id": "/ch999",
         "title": "Ch. 999 - The End",
         "pages": [
@@ -25,6 +41,18 @@
         "pages": [
             "./assets/404",
             "./assets/404",
+            "./assets/404"
+        ]
+    },
+    {
+        "id": "/moo",
+        "title": "The partially lost chapter",
+        "pages": [
+            "./assets/404",
+            "./assets/ch001/Page01.png",
+            "./assets/404",
+            "./assets/404",
+            "./assets/ch001/Page02.png",
             "./assets/404"
         ]
     }
