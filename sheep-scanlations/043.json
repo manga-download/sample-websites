@@ -5,5 +5,15 @@
         "pages": [
             "./assets/ch666/Page001.avif"
         ]
+    },
+    {
+        "id": "/uwu",
+        "title": "The lost chapter",
+        "pages": [
+            "./assets/404",
+            "./assets/404",
+            "./assets/404",
+            "./assets/404"
+        ]
     }
 ]
