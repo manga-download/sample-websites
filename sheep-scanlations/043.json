@@ -3,7 +3,12 @@
         "id": "/ch666",
         "title": "Chapter 666 - Call of the beast",
         "pages": [
-            "./assets/ch666/Page001.avif"
+            "./assets/ch666/Page001.avif",
+            "./assets/ch666/Page002.bmp",
+            "./assets/ch666/Page003.png",
+            "./assets/ch666/Page004.webp",
+            "./assets/ch666/Page005.jpg",
+            "./assets/ch666/BadType.bmp"
         ]
     },
     {
