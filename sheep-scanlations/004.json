@@ -1,31 +1,92 @@
 [
     {
-        "id": "/ch001",
-        "title": "Chapter 1 - Beginning",
-        "pages": [
-            "./assets/ch001/Page01.png",
-            "./assets/ch001/Page02.png",
-            "./assets/ch001/Page03.png",
-            "./assets/ch001/Page04.png",
-            "./assets/ch001/Page05.png"
-        ]
+        "id": "/nametest01",
+        "title": "nametest",
+        "pages": []
     },
     {
-        "id": "/ch999",
-        "title": "Ch. 999 - The End",
-        "pages": [
-            "./assets/ch999/Page01.png",
-            "./assets/ch999/Page02.png",
-            "./assets/ch999/Page03.png"
-        ]
+        "id": "/nametest02",
+        "title": "nametest2",
+        "pages": []
     },
     {
-        "id": "/meh",
-        "title": "The lost chapter",
-        "pages": [
-            "./assets/404",
-            "./assets/404",
-            "./assets/404"
-        ]
+        "id": "/longname",
+        "title": "Chapter 3 - The Long Name and it's so boring that we hope that nobody will ever take the time to read this because it's quite useless but nonetheless thank you for your time",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-01",
+        "title": "01 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-02",
+        "title": "02 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-03",
+        "title": "03 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-09",
+        "title": "09 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-10",
+        "title": "10 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-11",
+        "title": "11 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-99",
+        "title": "99 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-100",
+        "title": "100 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-101",
+        "title": "101 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-110",
+        "title": "110 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chnum-111",
+        "title": "111 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-ch-01",
+        "title": "nametest ch1",
+        "pages": []
+    },
+    {
+        "id": "/nametest-chdot-01",
+        "title": "nametest ch.1",
+        "pages": []
+    },
+    {
+        "id": "/nametest-vol-ch01",
+        "title": "vol.1 ch1 nametest",
+        "pages": []
+    },
+    {
+        "id": "/nametest-vol",
+        "title": "vol.2 nametest",
+        "pages": []
     }
 ]
