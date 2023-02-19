@@ -27,17 +27,8 @@
         ]
     },
     {
-        "id": "/ch999",
-        "title": "Ch. 999 - The End",
-        "pages": [
-            "./assets/ch999/Page01.png",
-            "./assets/ch999/Page02.png",
-            "./assets/ch999/Page03.png"
-        ]
-    },
-    {
-        "id": "/meh",
-        "title": "The lost chapter",
+        "id": "/ch404",
+        "title": "Chapter 404 - The lost chapter",
         "pages": [
             "./assets/404",
             "./assets/404",
@@ -45,8 +36,8 @@
         ]
     },
     {
-        "id": "/moo",
-        "title": "The partially lost chapter",
+        "id": "/ch404.1",
+        "title": "Chapter 404.1 -The partially lost chapter",
         "pages": [
             "./assets/404",
             "./assets/ch001/Page01.png",
@@ -54,6 +45,27 @@
             "./assets/404",
             "./assets/ch001/Page02.png",
             "./assets/404"
+        ]
+    },
+    {
+        "id": "/ch666",
+        "title": "Chapter 666 - Rabbit images formats",
+        "pages": [
+            "./assets/ch666/Page001.avif",
+            "./assets/ch666/Page002.bmp",
+            "./assets/ch666/Page003.png",
+            "./assets/ch666/Page004.webp",
+            "./assets/ch666/Page005.jpg",
+            "./assets/ch666/BadType.bmp"
+        ]
+    },
+    {
+        "id": "/ch999",
+        "title": "Ch. 999 - The End",
+        "pages": [
+            "./assets/ch999/Page01.png",
+            "./assets/ch999/Page02.png",
+            "./assets/ch999/Page03.png"
         ]
     }
 ]
