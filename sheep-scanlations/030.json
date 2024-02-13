@@ -11,6 +11,17 @@
         ]
     },
     {
+        "id": "/ch001",
+        "title": "Chapter 2 -  €$£&éê@§% / '\"\\!?,;.~*`^°¤¶",
+        "pages": [
+            "./assets/ch001/Page01.png",
+            "./assets/ch001/Page02.png",
+            "./assets/ch001/Page03.png",
+            "./assets/ch001/Page04.png",
+            "./assets/ch001/Page05.png"
+        ]
+    },
+    {
         "id": "/ch999",
         "title": "Ch. 999 - The End",
         "pages": [
